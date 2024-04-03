@@ -14,9 +14,9 @@ Research on Service Providers dis-intermediating UrbanClap Platform
 
 2) Study to find out professionals who are disintermediating the business under Mens Grooming Category in Delhi-Ncr
 
-- Disinter-mediating- 8% of professionals offered to be contacted directly
+-Disinter-mediating- 8% of professionals offered to be contacted directly.
 -30% (18 pros) were found having problems either with skill or behavior.
--.21% of customers wouldn’t like to repeat the beautician.
+-21% of customers wouldn’t like to repeat the beautician.
 -15 % of professionals are not wearing UC apron while doing services
 
 
