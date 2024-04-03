@@ -1,5 +1,5 @@
 # Market-Research-Project
-Research on Service Providers dis-intermediating UrbanClap Platform
+### Research on Service Providers dis-intermediating UrbanClap Platform
 
 1) Study to find out professionals who are disintermediating the business in beauty and wellness(Salon  at Home Category) in Chandigarh
 
